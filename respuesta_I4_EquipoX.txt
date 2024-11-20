@@ -8,9 +8,14 @@ D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
   -El de Alfa.
 
 E- ¿Algún integrante tuvo problemas al hacer el push?
+  -No
 F- ¿Qué problemas surgieron?
+  -Realizamos un push que no teniamos que poner
 G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
 adoptada?
+  -Aplicamos un revert y revertimos los cambios
 H- ¿Qué sucede si cada uno utiliza el push -f?
+  -Se sobreescriben los cambios que tenemos en nuestro repo remoto al de github, incluso si hay incongruencias entre los dos.
 I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
-en DESARROLLO ?
+  en DESARROLLO ?
+  -Un merge de testing a desarrollo
